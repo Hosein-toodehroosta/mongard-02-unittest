@@ -1,5 +1,5 @@
 # Learning doctest
-# python -m doctest -v 01.py
+# python -m doctest -v one_doctest.py
 
 """"
 >>> add(5, 6)
